@@ -1,0 +1,5 @@
+<kml xmlns:gx="http://www.earth.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+ <Document><Style id="FeatureStyle1"><IconStyle><color>FFff0000ff</color><scale>0.4</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href></Icon><hotSpot x="25" y="1" xunits="pixels" yunits="pixels"/></IconStyle><LabelStyle><scale>1.0</scale></LabelStyle><LineStyle><color>ffff0000ff</color><width>5</width></LineStyle><PolyStyle><color>FFFF0000ffff0000ff</color><fill>0</fill></PolyStyle></Style><name>LAIN</name><description>Species</description>
+  <Placemark><name>4661</name><description><![CDATA[1]]></description><styleUrl>#FeatureStyle1</styleUrl><Point><coordinates>18.649796,73.786537</coordinates></Point></Placemark>
+  <Placemark><name>4674</name><description><![CDATA[1]]></description><styleUrl>#FeatureStyle1</styleUrl><Point><coordinates>18.647322,73.832526</coordinates></Point></Placemark>
+ </Document></kml>
